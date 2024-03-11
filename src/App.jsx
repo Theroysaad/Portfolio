@@ -10,7 +10,7 @@ function App() {
       <Header/>
       <Routes >
         <Route path='/' element={<HomePage />} />
-        <Route path='/' element={<AboutPage />} />
+        {/* <Route path='/' element={<AboutPage />} /> */}
       </Routes >
     </MyProvider>
 
