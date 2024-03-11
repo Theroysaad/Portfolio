@@ -1,0 +1,52 @@
+@font-face {
+    font-family: off;
+    src: url(../../../assets/fonts/ProtestRevolution-Regular.ttf);
+    font-family: off2;
+    src: url(../../../assets/fonts/fontfont.ttf);
+    font-family: off3;
+    src: url(../../../assets/fonts/RubikMonoOne-Regular.ttf);
+    font-family: off4;
+    src: url(../../../assets/fonts/four.ttf);
+    font-family: off5;
+    src: url(../../../assets/fonts/ArchivoBlackRegular.ttf);
+}
+@font-face {
+    // font-family: off;
+    // src: url(../../../assets/fonts/ProtestRevolution-Regular.ttf);
+    // font-family: off2;
+    // src: url(../../../assets/fonts/fontfont.ttf);
+    font-family: off3;
+    src: url(../../../assets/fonts/RubikMonoOne-Regular.ttf);
+    // font-family: off4;
+    // src: url(../../../assets/fonts/four.ttf);
+    // font-family: off5;
+    // src: url(../../../assets/fonts/ArchivoBlack-Regular.ttf);
+}
+
+
+@font-face {
+    font-family: off6;
+    src: url(../../../assets/fonts/Oswald.ttf);
+}
+
+
+.body{
+    // background: rgb(1,51,40);
+    // background: linear-gradient(93deg, rgba(1,51,40,1) 40%, rgba(254,255,0,1) 100%);
+    background-image: url(../../../assets/img/greybackground.png);
+}
+
+.intro{
+    font-family: off3;
+}
+
+.text-about{
+    font-family: off6;
+}
+
+.test-font {
+    font-family: off5;
+        background: url(../../../assets/img/backgroundfortext.webp) 0 0  ;
+        -webkit-background-clip: text; 
+        -webkit-text-fill-color: transparent;
+}
